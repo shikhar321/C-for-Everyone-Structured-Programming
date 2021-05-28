@@ -1,0 +1,3 @@
+Data: 9 11 12 15 
+Average -> 11.750000 
+Maximum -> 15 
